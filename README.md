@@ -7,10 +7,14 @@ I'm a junior software developer and tester who likes to create great projects li
 
 Skills: HTML / CSS / PYTHON / FIGMA / GIT / GITHUB
 
+```diff
+
 - 🔭 I’m currently working on MoziMajom Project 
 - 🌱 I’m currently learning REACT JS / NODE JS 
 - 📫 How to reach me: preildaniel15@gmail.com 
 - ⚡ Fun fact: I can solve the Rubik's Cube 
+
+```
 
  ~ Spotify -Bones - Playlist ~  
 | 🎵 Now Playing                                                                                                                 |
