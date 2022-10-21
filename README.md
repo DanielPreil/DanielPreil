@@ -22,10 +22,10 @@ Skills: ✅
  ~ Spotify -Bones - Playlist ~  
 | 🎵 Now Playing                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"><img src="https://i.scdn.co/image/ab6761610000e5eb31672210ac133d978de5ce45" width="100" height="100"></a> |       ![Profile views](https://gpvc.arturio.dev/DanielPreil)  
+| <a href="https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"><img src="https://i.scdn.co/image/ab6761610000e5eb31672210ac133d978de5ce45" width="100" height="100"></a> |
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DanielPreil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daniel-preil-140588244/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/daniel_preil/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/daniel_preil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/20304255)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://github.com/DanielPreil/MoziMajom)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPreil)](https://github.com/anuraghazra/github-readme-stats)        ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielPreil&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielPreil&show_icons=true)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DanielPreil)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DanielPreil)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPreil)](https://github.com/anuraghazra/github-readme-stats) 
