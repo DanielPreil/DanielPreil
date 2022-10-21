@@ -12,7 +12,8 @@ Skills: HTML / CSS / PYTHON / FIGMA / GIT / GITHUB
 - 📫 How to reach me: preildaniel15@gmail.com 
 - ⚡ Fun fact: I can solve the Rubik's Cube 
 
-| 🎵 Now Playing ~ Spotify -Bones - Playlist ~                                                                                                                   |
+ ~ Spotify -Bones - Playlist ~  
+| 🎵 Now Playing                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"><img src="https://i.scdn.co/image/ab6761610000e5eb31672210ac133d978de5ce45" width="100" height="100"></a> |
 
