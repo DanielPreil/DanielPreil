@@ -9,10 +9,10 @@ Skills: HTML / CSS / PYTHON / FIGMA / GIT / GITHUB
 
 ```diff
 
-- 🔭 I’m currently working on MoziMajom Project 
-- 🌱 I’m currently learning REACT JS / NODE JS 
-- 📫 How to reach me: preildaniel15@gmail.com 
-- ⚡ Fun fact: I can solve the Rubik's Cube 
+@@ 🔭 I’m currently working on MoziMajom Project 
+@@ 🌱 I’m currently learning REACT JS / NODE JS 
+@@ 📫 How to reach me: preildaniel15@gmail.com 
+@@ ⚡ Fun fact: I can solve the Rubik's Cube 
 
 ```
 
