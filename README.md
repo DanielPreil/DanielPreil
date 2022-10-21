@@ -1,14 +1,21 @@
 ### Hi there 👋, My name is Daniel
 #### 15-year-old Programmer
 
-I'm a junior software developer and tester who likes to create great projects like databases, fullStack responsive websites, python CLI apps and other things.
+I'm a junior software developer and tester who likes to create great projects like databases, 
+fullStack responsive websites, python CLI apps and other things.
 
-Skills: HTML / CSS / PYTHON / FIGMA / GIT / GITHUB
+Skills: ✅
+~  HTML [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>]
+~ CSS [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>]
+~ PYTHON [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>]
+~ FIGMA [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg' alt='figma' height='40'>]
+~ GIT [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='40'>]
+~ GITHUB <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]
 
-- 🔭 I’m currently working on MoziMajom Project 
-- 🌱 I’m currently learning REACT JS / NODE JS 
-- 📫 How to reach me: preildaniel15@gmail.com 
-- ⚡ Fun fact: I can solve the Rubik's Cube 
+- 🔭 I’m currently working on MoziMajom Project 🔥
+- 🌱 I’m currently learning REACT JS / NODE JS 🔥
+- 📫 How to reach me: preildaniel15@gmail.com 🔥
+- ⚡ Fun fact: I can solve the Rubik's Cube 🔥
 
  ~ Spotify -Bones - Playlist ~  
 | 🎵 Now Playing                                                                                                                 |
