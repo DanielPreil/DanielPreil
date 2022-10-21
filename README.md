@@ -1,5 +1,5 @@
-### Hi there 👋, My name is Daniel
-#### 15-year-old Programmer
+## Hi there 👋, My name is Daniel
+### 15-year-old Programmer
 
 <h3 align="center">I'm a junior software developer and tester who likes to create great projects like databases, 
 fullStack responsive websites, python CLI apps and other things.</h3>
