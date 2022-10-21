@@ -5,7 +5,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/DanielPreil/count.svg" />
 </p>
 
 I'm a junior software developer and tester who likes to create great projects like databases, fullStack responsive websites, python CLI apps and other things.
