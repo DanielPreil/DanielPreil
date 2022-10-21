@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Daniel
 #### 15-year-old Programmer
-![15-year-old Programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![15-year-old Programmer]
 
 I'm a junior software developer and tester who likes to create great projects like databases, fullStack responsive websites, python CLI apps and other things.
 
