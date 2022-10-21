@@ -1,8 +1,6 @@
 ### Hi there 👋, My name is Daniel
 #### 15-year-old Programmer
 
-![Alt Text](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
-
 I'm a junior software developer and tester who likes to create great projects like databases, fullStack responsive websites, python CLI apps and other things.
 
 Skills: HTML / CSS / PYTHON / FIGMA / GIT / GITHUB
