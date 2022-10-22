@@ -32,5 +32,4 @@ Github:  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github
   <li> ⚡ Fun fact: I can solve the Rubik's Cube 🔥 </li>
 </ul>
   
-  
 <hr>
