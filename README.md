@@ -8,7 +8,13 @@ fullStack responsive websites, python CLI apps and other things.</h3>
 
 <hr>
 
-<img width=500 src="https://github-readme-stats.vercel.app/api?username=DanielPreil&show_icons=true&theme=dracula" alt="Daniel's Stats" /> <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=DanielPreil&theme=dracula" alt="Daniel's Stats" />
+<p align="center">
+  <img width=650 src="https://github-readme-stats.vercel.app/api?username=DanielPreil&show_icons=true&theme=dracula" alt="Daniel's Stats" />
+</p>
+
+<p align="center">
+  <img width=650 src="https://github-readme-streak-stats.herokuapp.com/?user=DanielPreil&theme=dracula" alt="Daniel's Stats" />
+</p>
 
 <h3 align="center">
 Skills: ✅
@@ -19,7 +25,6 @@ Skills: ✅
 ~ GIT 🛠
 ~ GITHUB 💾
 </h3>
-
 
 Github:  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DanielPreil) LinkedIn:  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daniel-preil-140588244/) Instagram: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/daniel_preil/) Twitter:  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/daniel_preil) Stackoverflow:   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/20304255) MoziMajom CLI:  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://github.com/DanielPreil/MoziMajom)
 
