@@ -8,7 +8,7 @@ fullStack responsive websites, python CLI apps and other things.</h3>
 
 <hr>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielPreil&show_icons=true&theme=dracula)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DanielPreil&theme=dracula)
+<img width=500 src="https://github-readme-stats.vercel.app/api?username=DanielPreil&show_icons=true&theme=dracula" alt="Daniel's Stats" /> <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=DanielPreil&theme=dracula" alt="Daniel's Stats" />
 
 <h3 align="center">
 Skills: ✅
