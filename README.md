@@ -4,8 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web / Software Developer 💻 ![Mac Os](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 --------------------------
 
-I've been learning programming for a 3 years now.<br>
-I like to create Magical Websites 🪄 & Cool and really Useful Application or Softwares.
+I've been learning programming for 3 years now.<br>
+I like to create 'Magical Beautifully Animated Websites' 🪄.<br>
+And I listen to Spotify all the time.<br>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31b76rzsohq6ippwmyjydtez56lq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=5c8dff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31b76rzsohq6ippwmyjydtez56lq&redirect=true)
 
 * 🌍  I live in Hungary. 🇭🇺
 * 🖥️  See my portfolio at [Github (Because I don't have an offical yet 👀)](http://github.com/DanielPreil)
